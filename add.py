@@ -6,3 +6,6 @@ print(sum)
 
 sum = add_number(2, 2)
 print(sum)
+
+sum = add_number(2, 3)
+print(sum)
